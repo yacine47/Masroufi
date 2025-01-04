@@ -24,7 +24,7 @@ const Sidebar = () => {
         } transition-transform md:translate-x-0 w-64`}
       >
         <div className="p-4 text-lg font-bold border-b border-gray-700">
-          Masroofy
+          Masroufi
         </div>
         <nav className="mt-4">
           <ul>
